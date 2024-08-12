@@ -49,7 +49,7 @@ Después realicé la manera en que el usuario vería sus favoritos, leídos y qu
 # Problemas conocidos
  - Al cargar la imagen al form donde se agregan o editan, la imagen tiene que tener el tamaño de 194x295 pixeles para poder adecuarse al picture box, si no se le da ese tamaño se ve solo una parte de la imagen guardada.
  - En el listview no se aprecian imagenes de la portada de los libros.
-
+-  Al general el instalable me marcaba que tres dependencias no se encontraban en los archivos, sin embargo, al buscarlas si se encontraban ahí y no logré solucionar el problema.
 # Retrospectiva
 
 ## ¿Qué hice bien?
